@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "complmrob"]
+	path = complmrob
+	url = https://github.com/dakep/complmrob
+	shallow = true
+	registered = true
+[submodule "gaselect"]
+	path = gaselect
+	url = https://github.com/dakep/gaselect
+	shallow = true
+	registered = true
+[submodule "pense"]
+	path = pense
+	url = https://github.com/dakep/pense-rpkg
+	shallow = true
+	registered = true
+[submodule "pyinit"]
+	path = pyinit
+	url = https://github.com/dakep/pyinit
+	shallow = true
+	registered = true

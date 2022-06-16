@@ -1,0 +1,18 @@
+[
+  {
+    "package": "complmrob",
+    "oncran": true
+  },
+  {
+    "package": "gaselect",
+    "oncran": true
+  },
+  {
+    "package": "pense",
+    "oncran": true
+  },
+  {
+    "package": "pyinit",
+    "oncran": true
+  }
+]
