@@ -1,6 +1,6 @@
 [
   {
-    "package": "pense",
+    "package": "complmrob",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "complmrob",
+    "package": "pense",
     "oncran": true
   },
   {
